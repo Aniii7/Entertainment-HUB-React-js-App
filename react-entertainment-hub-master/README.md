@@ -1,4 +1,4 @@
-# LIVE LINK - https://entertainmenthub.netlify.app/
+
 # Entertainment Hub
 <table>
 <tr>
